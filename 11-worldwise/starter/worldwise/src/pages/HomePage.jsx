@@ -6,7 +6,7 @@ export const HomePage = () => {
     <div>
       <PageNav />
       <AppNav />
-      <div>Worldwise</div>
+      <div className="test">Worldwise</div>
       <Link to="/app">Go to the app</Link>
     </div>
   );
